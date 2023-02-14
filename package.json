@@ -1,0 +1,24 @@
+{
+          "name": "projectbot",
+          "version": "1.0.0",
+          "description": "Group Project Bot",
+          "main": "bot.js",
+          "author": "gl",
+          "dependencies": {
+                    "covid-global": "^2.4.3",
+                    "covid-usa": "^2.1.1",
+                    "crypto-global": "^1.0.5",
+                    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+                    "events": "^3.3.0",
+                    "give-me-a-joke": "^0.5.1",
+                    "jquery": "^3.6.0",
+                    "node-fetch": "^3.0.0",
+                    "querystring": "^0.2.1",
+                    "urban": "^0.3.4",
+                    "util": "^0.12.4",
+                    "weather-js": "^2.0.0",
+                    "wikifakt": "^1.0.3",
+                    "winston": "^3.3.3",
+                    "ytdl-core": "^4.9.1"
+          }
+}
